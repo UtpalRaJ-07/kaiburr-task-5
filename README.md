@@ -264,13 +264,15 @@ TfidfVectorizer(
 
 ## 📈 Results Visualization
 
-Check the `screenshots/` directory for visual documentation:
+Check the `screenshots/` directory for visual documentation (user-provided):
 
-1. **classification_categories.png** - Category definitions
-2. **example_predictions.png** - Sample predictions
-3. **model_comparison.png** - Performance comparison
-4. **final_results.png** - Complete results summary
-5. **task5_summary.png** - All 6 steps overview
+1. **classification_and_results.png** - Classification categories, example predictions, and final results screenshot
+
+        ![Classification and Results](screenshots/classification_and_results.png)
+
+2. **task5_summary.png** - Complete 6-step summary screenshot
+
+        ![Task 5 Summary](screenshots/task5_summary.png)
 
 ---
 
