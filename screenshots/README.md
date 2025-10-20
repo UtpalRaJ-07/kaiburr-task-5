@@ -3,47 +3,13 @@
 Author: Utpal Raj  
 Date: October 21, 2025
 
-## 📸 Available Screenshots
+## 📸 Included Screenshots (User provided)
 
-### 1. `classification_categories.png` - Classification Categories
-Shows the 4 complaint categories used in the classification system:
-- Class 0: Credit reporting, repair, or other
-- Class 1: Debt collection
-- Class 2: Consumer Loan
-- Class 3: Mortgage
+### 1. `classification_and_results.png` - Classification Categories + Results
+This image captures the classification categories, example predictions, and the final results summary (accuracy, best model, and confusion matrix).
 
-### 2. `example_predictions.png` - Example Predictions
-Demonstrates the model's predictions on 6 real-world complaint examples:
-- All predictions are correct
-- Shows the practical application of the trained model
-- Includes various complaint types across all categories
-
-### 3. `model_comparison.png` - Model Performance Comparison
-Compares the performance of 4 different classification models:
-- Logistic Regression: 100.00% ⭐ BEST
-- Multinomial Naive Bayes: 75.00%
-- Linear SVM: 75.00%
-- Random Forest: 25.00%
-
-### 4. `final_results.png` - Final Results Summary
-Complete evaluation metrics for the best model (Logistic Regression):
-- Best Model: Logistic Regression
-- Accuracy: 100.00%
-- Models Compared: 4
-- Dataset Size: 8 samples, 4 categories
-- Training Samples: 4
-- Test Samples: 4
-- All Per-Class Accuracy: 100%
-- Perfect Confusion Matrix: YES
-
-### 5. `task5_summary.png` - Complete Task Summary
-Overview of all 6 required steps:
-- Step 1: Exploratory Data Analysis and Feature Engineering
-- Step 2: Text Pre-Processing
-- Step 3: Selection of Multi Classification Models
-- Step 4: Comparison of Model Performance
-- Step 5: Model Evaluation (Best Model: Logistic Regression)
-- Step 6: Prediction on New Data
+### 2. `task5_summary.png` - Complete Task Summary
+This image shows the 6-step summary of the task and all required steps completed.
 
 ---
 
